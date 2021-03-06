@@ -1,5 +1,5 @@
 DYNAMIC CODING QUIZ 
-(Note I am using my Girlfriends Computer which is why her name pops up (ariela))
+(Note I am using my Girlfriends Computer which is why her name pops up (Ariela))
 
 04 Web APIs: 
 Code Quiz
