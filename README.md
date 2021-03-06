@@ -1,4 +1,5 @@
-``DYNAMIC CODING QUIZ
+DYNAMIC CODING QUIZ 
+(Note I am using my Girlfriends Computer which is why her name pops up (ariela))
 
 04 Web APIs: 
 Code Quiz
